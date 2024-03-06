@@ -1,0 +1,1 @@
+This project utilizes machine learning classification algorithms to predict whether a bank loan applicant is likely to default or not. The analysis involves preprocessing the data, training various classification models, evaluating their performance, and deploying the best-performing model for practical use
